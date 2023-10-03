@@ -46,9 +46,9 @@
 
     <profiles>
         <profile>
-            <id>dev</id>
+            <id>eval</id>
             <properties>
-                <apigee.profile>dev</apigee.profile>
+                <apigee.profile>eval</apigee.profile>
                 <apigee.env>${env}</apigee.env>
                 <apigee.hosturl>https://apigee.googleapis.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
